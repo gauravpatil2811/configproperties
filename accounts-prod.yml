@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related producation APIs "
   contactDetails:
-    name: "Gaurav patilProduct Owner"
+    name: "Gaurav patil Product Owner"
     email: "{cipher}ed9f855c602245ba3cb87b81570cec876d242d2228e1771ae33d7922aba1f1a3600e9fe8a2ccc5363d8801557c925178"
   onCallSupport:
     - (453) 392-4829
